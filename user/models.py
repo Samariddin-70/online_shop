@@ -33,4 +33,4 @@ class User(AbstractUser):
 
     class Meta:
         verbose_name = 'Foydalanuvci'
-        verbose_name_plural = 'Foydslsnuvchilar'
+        verbose_name_plural = 'Foydalanuvchilar'
